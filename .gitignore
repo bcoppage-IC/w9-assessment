@@ -1,0 +1,5 @@
+# Python cache and virtual environments (never commit these)
+__pycache__/
+.venv/
+
+# Task 2 reminder: secrets must never be committed.
