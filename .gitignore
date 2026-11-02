@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 
 # Task 2 reminder: secrets must never be committed.
+
+.env
